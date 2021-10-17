@@ -1,16 +1,19 @@
-.page-container {
+#page-container {
 	width: 80%;
 }
 
-.title {
+#title {
 	color: #FF0000;
 	font-family: "Comic Sans";
 	text-align: center;
 	size: 40em;
 }
 
-.menu td {
+#menu td {
 	padding: 5%;
 }
 
-.
+.yonq {
+	color: #FF0000;
+	font-family: "Comic Sans";
+}
