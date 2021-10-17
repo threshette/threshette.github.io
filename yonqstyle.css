@@ -3,7 +3,15 @@
 	width: 50%;
 }
 
+#title-container {
+	background-image: url("tree.jpg");
+	background-size: cover;
+	margin: auto;
+	width: 100%;
+}
+
 #title {
+	text-align: center;
 	font-size: 5em;
 	margin: 0;
 }
