@@ -3,6 +3,14 @@
 	width: 50%;
 }
 
+@media (max-width: 800px) {
+	#page-container {
+		margin: auto;
+		width: 100%;
+	}
+}
+
+
 #title-container {
 	background-image: url("tree.jpg");
 	background-size: cover;
