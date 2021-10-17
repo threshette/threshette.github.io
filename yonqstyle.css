@@ -1,19 +1,38 @@
 #page-container {
 	margin: auto;
-	width: 80%;
+	width: 50%;
 }
 
 #title {
-	color: #FF0000;
-	font-family: "Comic Sans MS", "Comic Sans", sans-serif;
-	text-align: center;
-	size: 40em;
+	font-size: 5em;
+	margin: 0;
 }
 
-#menu {
-	margin: auto;
-	width: 50%;
+h1, h2, h3, h4 {
+	color: #FF0000;
+	font-family: "Comic Sans MS", "Comic Sans", sans-serif;
 }
+
+table, tr, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+td {
+	padding: 6px 24px 6px 24px;
+}
+
+td p {
+	margin: 0;
+}
+
+#header-row td {
+	background-color: grey;
+	font-weight: bold;
+}
+
+
 
 .yonq {
 	color: #FF0000;
